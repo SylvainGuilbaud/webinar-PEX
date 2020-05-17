@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="InterSystems.Data.Gateway">
+      <HintPath>c:\InterSystems\IRIS20201\dev\dotnet\bin\v4.5\InterSystems.Data.Gateway64.exe</HintPath>
+    </Reference>
+    <Reference Include="InterSystems.Data.IRISClient">
+      <HintPath>c:\InterSystems\IRIS20201\dev\dotnet\bin\v4.5\InterSystems.Data.IRISClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

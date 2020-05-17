@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\webinar\\webinar-PEX\\AWS\\PEX.AWS\\PEX.AWS.csproj": {}
+  },
+  "projects": {
+    "C:\\webinar\\webinar-PEX\\AWS\\PEX.AWS\\PEX.AWS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\webinar\\webinar-PEX\\AWS\\PEX.AWS\\PEX.AWS.csproj",
+        "projectName": "PEX.AWS",
+        "projectPath": "C:\\webinar\\webinar-PEX\\AWS\\PEX.AWS\\PEX.AWS.csproj",
+        "packagesPath": "C:\\Users\\pyd\\.nuget\\packages\\",
+        "outputPath": "C:\\webinar\\webinar-PEX\\AWS\\PEX.AWS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.5.0-beta, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

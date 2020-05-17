@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEVKAfWgTPkqMC+unBB3j47gS/jRW+qU581hkN0loJP3skhB5EKDCq4axVmYgcTW56hjJfLuE/nvVRqf/XFekw==",
+  "success": true,
+  "projectFilePath": "C:\\webinar\\webinar-PEX\\AWS\\PEX.AWS\\PEX.AWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pyd\\.nuget\\packages\\awssdk.core\\3.5.0-beta\\awssdk.core.3.5.0-beta.nupkg.sha512",
+    "C:\\Users\\pyd\\.nuget\\packages\\awssdk.s3\\3.5.0-beta\\awssdk.s3.3.5.0-beta.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
