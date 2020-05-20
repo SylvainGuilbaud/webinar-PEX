@@ -20,6 +20,5 @@ Cargar el codigo en IRIS
 
 Se tiene que cargar en un namespace habilitado para interoperabilidad. Se puede cargar desde el portal de gestión con "System Explorer"/"Classes" botón Import.
 
-Fichero: c:\webinar\webinar-PEX\irisfiles\Weinar-PEX-DotNetSamples.xml
-
+Ficheros: c:\webinar\webinar-PEX\irisfiles\src
 ### Arrancar la Producción "FirstDemo"
